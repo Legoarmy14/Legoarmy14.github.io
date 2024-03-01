@@ -1,0 +1,38 @@
+
+
+img {
+    text-align: end;
+}
+
+.Navigatiebalk {
+    background: #260f54;
+    border-bottom: 5px solid #fec23e;
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.Navigatiebalk a {
+    color: white;
+}
+.rechthoek1 p {
+    color: white;
+}
+
+header h2{
+    color: #fec23e;
+}
+
+.Koppen{
+    background: white;
+    padding: 0.2cm;
+    text-align: left;
+    
+}
+
+blockquote {
+    border-left: 5px solid #2ea3f2;
+    padding-left: 50px;
+    display: block;
+}
