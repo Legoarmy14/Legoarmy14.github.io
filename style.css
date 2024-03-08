@@ -43,3 +43,7 @@ blockquote {
 p{
     font-family:Calibri;
 }
+
+table, th, td {
+    border:0.05px solid black;
+}
