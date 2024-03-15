@@ -1,4 +1,7 @@
-
+main{
+    width: 80%;
+    margin: auto;
+}
 
 img {
     text-align: end;
@@ -47,3 +50,23 @@ p{
 table, th, td {
     border:0.05px solid black;
 }
+
+.activiteiten-tabel tr {
+    height: 10px;
+}
+
+.Formulieren-Avondvierdaagse{
+    background-color:rgb(128 56 179);
+    width: 55%;
+    height: auto;
+    float: right;
+    text-align: center;
+    color:white;
+    
+}
+.Navigatiebalk a:hover{
+    display:inline-block;
+    background-color: #fcb900;
+}
+
+
